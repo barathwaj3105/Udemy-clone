@@ -101,7 +101,7 @@ body{
 }
 .sale-image__offer{
     border: solid black 2px;
-    width: 30%;
+    width: 50%;
     background-color: white;
     padding: 1%;
     position: absolute;
@@ -213,8 +213,5 @@ body{
     }
     .navbar-s4{
         display: block;
-    }
-    .sale-image__offer{
-        font-size: 8px;
     }
 }
