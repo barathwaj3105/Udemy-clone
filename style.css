@@ -214,4 +214,8 @@ body{
     .navbar-s4{
         display: block;
     }
+    .sale-image__offer{
+        width: 60%;
+        left: 2%;
+    }
 }
